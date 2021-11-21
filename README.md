@@ -1,3 +1,3 @@
 # MyResume
 
-![Alt text](Resume.png)
+![Alt text](Resume.jpg)
